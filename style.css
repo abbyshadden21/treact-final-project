@@ -263,7 +263,7 @@ nav{
   overflow-y: hidden;
 }
 
-.menu__open .menu{
+.menu--open .menu{
   visibility: visible;
   opacity: 1;
   transform: translateX(0);
